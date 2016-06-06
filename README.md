@@ -14,5 +14,5 @@ This repository contains copies of my conference presentation slides and posters
 
 - Jun 2016: [*Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry (CyTOF) data.*](posters/Clustering_poster_SIB_Days_Lukas_Weber_7Jun2016.pdf) SIB Days (Swiss Institute of Bioinformatics annual conference), Biel/Bienne, Switzerland; Jun 7-8, 2016.
 
-- August 2015: [*Improving power to detect differential exon usage by L1-regularization (lasso) model selection.*](posters/Poster_diff_splicing_LWeber_20150813.pdf) IMLS Scientific Retreat 2015 (Institute of Molecular Life Sciences, University of Zurich), Morschach, Switzerland; Aug 13-15, 2015.
+- Aug 2015: [*Improving power to detect differential exon usage by L1-regularization (lasso) model selection.*](posters/Poster_diff_splicing_LWeber_20150813.pdf) IMLS Scientific Retreat 2015 (Institute of Molecular Life Sciences, University of Zurich), Morschach, Switzerland; Aug 13-15, 2015.
 
