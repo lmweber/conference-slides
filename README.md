@@ -16,6 +16,10 @@ Manchester, United Kingdom; Nov 24-25, 2015
 
 ### Posters
 
+- **Jun 2016**: [*Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry (CyTOF) data*](posters/Clustering_poster_ICML_Comp_Biol_Lukas_Weber_24Jun2016.pdf) <br/>
+International Conference on Machine Learning (ICML) 2016 Workshop on Computational Biology <br/>
+New York; Jun 24, 2016
+
 - **Jun 2016**: [*Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry (CyTOF) data*](posters/Clustering_poster_SIB_Days_Lukas_Weber_7Jun2016.pdf) <br/>
 SIB Days (Swiss Institute of Bioinformatics annual conference) <br/>
 Biel/Bienne, Switzerland; Jun 7-8, 2016
